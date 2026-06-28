@@ -13,11 +13,14 @@
   "license": "ISC",
   "author": "Arya Halmare",
   "type": "commonjs",
-  "main": "App.js",
   "scripts": {
     "test": "jest"
   },
   "dependencies": {
+    "react": "^19.2.7",
+    "react-dom": "^19.2.7"
+  },
+  "devDependencies": {
     "parcel": "^2.16.4"
   }
 }
