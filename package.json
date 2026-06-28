@@ -1,0 +1,23 @@
+{
+  "name": "react_notes",
+  "version": "1.0.0",
+  "description": "I am Learning React",
+  "homepage": "https://github.com/AryaHalmare/React_Notes#readme",
+  "bugs": {
+    "url": "https://github.com/AryaHalmare/React_Notes/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AryaHalmare/React_Notes.git"
+  },
+  "license": "ISC",
+  "author": "Arya Halmare",
+  "type": "commonjs",
+  "main": "App.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "dependencies": {
+    "parcel": "^2.16.4"
+  }
+}
