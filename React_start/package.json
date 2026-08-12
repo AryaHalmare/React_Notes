@@ -1,0 +1,20 @@
+{
+  "name": "react_start",
+  "version": "1.0.0",
+  "description": "This is my second time for practising React App making",
+  "license": "ISC",
+  "author": "Arya Halmare",
+  "type": "commonjs",
+  
+  "scripts": {
+    "start" : "parcel index.html",
+    "test": "jest"
+  },
+  "devDependencies": {
+    "parcel": "^2.16.4"
+  },
+  "dependencies": {
+    "react": "^19.2.7",
+    "react-dom": "^19.2.7"
+  }
+}
